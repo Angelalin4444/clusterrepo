@@ -8,6 +8,6 @@
 #SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --mail-user=angelalin4444@gmail.com
 
-module load julia/1.5.2
+module load julia/1.0.0
 
 julia myscript.jl
