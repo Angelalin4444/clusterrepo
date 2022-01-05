@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 #SBATCH --cpus-per-task=1
 #SBATCH --mem-per-cpu=2G
 #SBATCH --partition=sched_mit_sloan_batch
